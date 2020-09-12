@@ -5,7 +5,7 @@
   </samp>
 </p>
 
-* 💼 Currently working at [PageUp](https://pageup.fr/) <br/>
+* 💼 Currently working at [PageUp](https://pageup.fr/) and studying at [Diiage](http://diiage.cucdb.fr/) <br/>
 * 📫 Contact me [@damien_millot](https://twitter.com/damien_millot)
 
 ## My skills
