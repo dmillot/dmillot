@@ -14,9 +14,11 @@
   <img align="center" alt="coming soon" src="" />
 </p>
 
-## Stack Overflow
+## Stack Overflow & Codewars
 
 [![Damien Millot StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13473130)](https://stackoverflow.com/users/13473130/damien-millot)
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/dmillot/badges/large)
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
