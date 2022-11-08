@@ -21,8 +21,3 @@
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/dmillot/badges/large)
 
 <a href="https://app.daily.dev/dmillot"><img src="https://api.daily.dev/devcards/7b48439ee8f0486282b9714b8e0f6f4a.png?r=jkc" width="200" alt="Damien Millot's Dev Card"/></a>
-
-<details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  I want to make a portfolio and host it, and try to be more active on the Stack Overflow platform.
-</details>
